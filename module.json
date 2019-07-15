@@ -1,0 +1,14 @@
+{
+    "name": "Core121Basic",
+    "alias": "core121basic",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Core121Basic\\Providers\\Core121BasicServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
