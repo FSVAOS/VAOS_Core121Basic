@@ -1,7 +1,7 @@
 {
     "name": "Core121Basic",
     "alias": "core121basic",
-    "description": "",
+    "description": "VAOS 3.0 Part 121 Core Functionality",
     "keywords": [],
     "active": 1,
     "order": 0,
